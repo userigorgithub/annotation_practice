@@ -1,4 +1,6 @@
 # Annotation Practice
+![Annotations](https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif)
+
 Follow the directions carefully:
 1. Fork this repo
 2. Clone your forked version to your local machine
@@ -51,6 +53,7 @@ function playWithCats(cat1, cat2, toy){
 //invoke the playWithCats function with cat1 = 'Pumpernickel', cat2 = 'Nigel', 
 //and toy = 'paperclip'
 playWithCats('Pumpernickel', 'Nigel', 'paperclip')
+// this function will output the string - "Hello Pumpernickel and Nigel - how are you both doing this fine morning!"
 ```
 
 #### Ruby Example
@@ -94,5 +97,5 @@ end
 # invoke the play_with_cats function with cat_1 = "Pumpernickel", cat_2 = "Nigel" 
 # and toy = "paperclip"
 play_with_cats('Pumpernickel', 'Nigel', 'paperclip')
-
+# this function will output the string - "Hello Pumpernickel and Nigel - how are you both doing this fine morning!"
 ```

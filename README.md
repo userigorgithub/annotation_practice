@@ -1,4 +1,6 @@
 # Annotation Practice
+![Annotations](https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif)
+
 Follow the directions carefully:
 1. Fork this repo
 2. Clone your forked version to your local machine

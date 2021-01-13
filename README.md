@@ -98,4 +98,4 @@ end
 # and toy = "paperclip"
 play_with_cats('Pumpernickel', 'Nigel', 'paperclip')
 # this function will output the string - "Hello Pumpernickel and Nigel - how are you both doing this fine morning!"
-```
+
